@@ -26,7 +26,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://iansnyder333.github.io/frontend/">「 My Website 」</a>
+    <a href="https://iansnyder333.github.io/frontend/">「 Portfolio 」</a>
     <br>
     「 I am a Data Scientist and Machine Learning Engineer from <b>Philadelphia</b> 」
     <br>
