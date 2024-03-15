@@ -30,7 +30,7 @@
   <samp>
     <a href="https://iansnyder333.github.io/frontend/">「 Portfolio 」</a>
     <br>
-    「 I am a System Programmer Analyst at UPMC's Translational Neuropsychopharmacology & Neuroimaging lab in <b>Pittsburgh</b> 」
+    「 I am a Systems Programmer/Analyst at UPMC's Translational Neuropsychopharmacology & Neuroimaging lab in <b>Pittsburgh</b> 」
     <br>
     <br>
   </samp>
