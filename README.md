@@ -30,7 +30,7 @@
   <samp>
     <a href="https://iansnyder333.github.io/frontend/">「 Portfolio 」</a>
     <br>
-    「 I am a Systems Analyst/Data Engineer II at UPMC Western Psychiatric Hospital in <b>Pittsburgh</b> 」
+    「 I am a Systems Analyst/Data Engineer II at UPMC Presbyterian in <b>Pittsburgh</b> 」
     <br>
     <br>
   </samp>
